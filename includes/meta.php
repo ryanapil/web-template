@@ -2,8 +2,7 @@
         <meta charset="utf-8">
         <base href="<?=$var["url"]?>" target="_self">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" integrity="sha256-j+P6EZJVrbXgwSR5Mx+eCS6FvP9Wq27MBRC/ogVriY0=" crossorigin="anonymous">-->
+        <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">-->
         <link rel="stylesheet" href="css/main.css?<?=$var["version"]?>">
         <meta name="author" content="<?=$var["author"]?>">
         <meta name="description" content="<?=$var["description"]?>">
@@ -28,4 +27,4 @@
         <meta name="fb:admins" content="<?=$var["facebook_admin_id"]?>">
         <meta name="fb:app_id" content="<?=$var["facebook_app_id"]?>">
         <meta name="og:type" content="website">
-        <!--<script defer src="https://use.fontawesome.com/releases/v5.0.4/js/all.js"></script>-->
+        <!--<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>-->
