@@ -1,6 +1,6 @@
 <?php $var = parse_ini_file("variables.ini"); ?>
 <!DOCTYPE html>
-<html lang="<?=$var["lang"]?>">
+<html lang="<?=$var["locale"]?>">
     <head>
         <?php include("includes/meta.php"); ?>
     </head>
