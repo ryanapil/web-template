@@ -1,4 +1,4 @@
-<?php $var = parse_ini_file("variables.ini"); ?>
+<?php $var = parse_ini_file("variables.ini", true); ?>
 <!DOCTYPE html>
 <html lang="<?=$var["locale"]?>">
     <head>
