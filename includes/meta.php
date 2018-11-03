@@ -14,9 +14,9 @@
         <meta name="twitter:title" content="<?=$var["title"]?>">
         <meta name="twitter:description" content="<?=$var["description"]?>">
         <meta name="twitter:site" content="<?=$var["twitter_handle"]?>">
-        <meta name="twitter:creator" content="<?=$var["twitter_handle"]?>">
-        <meta name="twitter:image:src" content="<?=$var["twitter_image_url"]?>">
-        <meta name="twitter:player" content="<?=$var["twitter_video_url"]?>">
+        <meta name="twitter:creator" content="<?=$var["twitter"]["handle"]?>">
+        <meta name="twitter:image:src" content="<?=$var["twitter"]["image_url"]?>">
+        <meta name="twitter:player" content="<?=$var["twitter"]["video_url"]?>">
         <meta name="og:title" content="<?=$var["title"]?>">
         <meta name="og:description" content="<?=$var["description"]?>">
         <meta name="og:image" content="<?=$var["image_url"]?>">
@@ -24,6 +24,6 @@
         <meta name="og:site_name" content="<?=$var["title"]?>">
         <meta name="og:locale" content="<?=$var["locale"]?>">
         <meta name="og:video" content="<?=$var["video_url"]?>">
-        <meta name="fb:admins" content="<?=$var["facebook_admin_id"]?>">
-        <meta name="fb:app_id" content="<?=$var["facebook_app_id"]?>">
+        <meta name="fb:admins" content="<?=$var["facebook"]["admin_id"]?>">
+        <meta name="fb:app_id" content="<?=$var["facebook"]["app_id"]?>">
         <meta name="og:type" content="website">
