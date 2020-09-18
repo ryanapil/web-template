@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html lang="<?=$var["locale"]?>">
     <head>
-        <?php include_once("includes/meta.php"); ?>
+        <?php include_once("templates/meta.php"); ?>
     </head>
     <body>
-        <?php include_once("includes/scripts.php"); ?>
+        <?php include_once("templates/scripts.php"); ?>
     </body>
 </html>
