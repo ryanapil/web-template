@@ -2,7 +2,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css" crossorigin="anonymous"> -->
+        <script src="https://kit.fontawesome.com/a707ba99e7.js" crossorigin="anonymous"></script> -->
         <link rel="stylesheet" href="<?=$var["url"]?>styles/main.css?<?=$var["version"]?>">
         <meta name="author" content="<?=$var["author"]?>">
         <meta name="description" content="<?=$var["description"]?>">
